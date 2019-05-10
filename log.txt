@@ -1,0 +1,34 @@
+commit 1a984d7167b73d01d98af4c7df2ae59eee077e4c
+Author: Elisa <studente.he.elisa@gmail.com>
+Date:   Fri May 10 11:23:57 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit 9d2e86d7623bf5ca070565f32889f31ee7642768
+Author: Elisa <studente.he.elisa@gmail.com>
+Date:   Fri May 10 11:15:07 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/BiggestLove.jpg b/img/BiggestLove.jpg
+new file mode 100644
+index 0000000..b90fd6a
+Binary files /dev/null and b/img/BiggestLove.jpg differ
+
+commit 59b08c1b004f05ef2e0d98eaf1b99f3d724fd576
+Author: Elisa <studente.he.elisa@gmail.com>
+Date:   Fri May 10 11:08:26 2019 +0200
+
+    Prima commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
